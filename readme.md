@@ -24,7 +24,7 @@ https://www.awseducate.com/registration#INFO-Student
 • JDK - http://java.sun.com/javase/downloads/index.jsp
 https://www.oracle.com/technetwork/java/javase/documentation/jdk8-doc-downloads-2133158.html
 
-• Maven - https://maven.apache.org/download.cgi
+• Maven - http://mirrors.estointernet.in/apache/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
 
 • MySQL Workbench - https://dev.mysql.com/downloads/workbench/
 https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.13-winx64.msi
