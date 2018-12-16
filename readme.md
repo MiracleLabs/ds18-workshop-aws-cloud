@@ -20,7 +20,6 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 • JDK - http://java.sun.com/javase/downloads/index.jsp
 https://www.oracle.com/technetwork/java/javase/documentation/jdk8-doc-downloads-2133158.html
-https://download.oracle.com/otn-pub/java/jdk/8u191-b12/2787e4a523244c269598db4e85c51e0c/jdk-8u191-docs-all.zip?AuthParam=1544949676_e35ce437a93fb6c1ccde8c7ca9a1a377
 
 • Maven - https://maven.apache.org/download.cgi
 
