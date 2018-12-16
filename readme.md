@@ -19,6 +19,8 @@ The following are the technologies that are used in this lab. Any prior knowledg
 • Tomcat - http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.13/bin/apache-tomcat9.0.13.tar.gz
 
 • JDK - http://java.sun.com/javase/downloads/index.jsp
+https://www.oracle.com/technetwork/java/javase/documentation/jdk8-doc-downloads-2133158.html
+https://aka.ms/vs/15/release/vc_redist.x64.exe
 
 • Maven - https://maven.apache.org/download.cgi
 
@@ -27,6 +29,7 @@ The following are the technologies that are used in this lab. Any prior knowledg
 • Microsoft .NET Framework - https://download.microsoft.com/download/B/A/4/BA4A7E71-2906-4B2D-A0E1-80CF16844F5F/dotNetFx45_Full_setup.exe
 
 • Microsoft Visual C++ Redistributable for Visual Studio - https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads
+https://aka.ms/vs/15/release/vc_redist.x64.exe
 
 • AWS Console - https://aws.amazon.com/console/
 
