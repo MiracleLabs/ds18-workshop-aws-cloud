@@ -16,6 +16,9 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 ## Important Links
 
+AWS Student educate program registration page
+https://www.awseducate.com/registration#INFO-Student
+
 • Tomcat - http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.13/bin/apache-tomcat9.0.13.tar.gz
 
 • JDK - http://java.sun.com/javase/downloads/index.jsp
@@ -24,6 +27,7 @@ https://www.oracle.com/technetwork/java/javase/documentation/jdk8-doc-downloads-
 • Maven - https://maven.apache.org/download.cgi
 
 • MySQL Workbench - https://dev.mysql.com/downloads/workbench/
+https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.13-winx64.msi
 
 • Microsoft .NET Framework - https://download.microsoft.com/download/B/A/4/BA4A7E71-2906-4B2D-A0E1-80CF16844F5F/dotNetFx45_Full_setup.exe
 
